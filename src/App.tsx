@@ -160,12 +160,6 @@ function App() {
         </div>
 
         <div className="container mx-auto px-4 py-8 sm:py-12">
-          <div className="flex items-center justify-center gap-3 mb-8">
-            <div className="h-px w-16 bg-gradient-to-r from-transparent to-cyan-500"></div>
-            <Sparkles className="w-6 h-6 text-cyan-400" />
-            <div className="h-px w-16 bg-gradient-to-l from-transparent to-cyan-500"></div>
-          </div>
-
           <div className="max-w-7xl mx-auto mb-8 sm:mb-12">
             <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-3 sm:gap-4">
               {apps.map((app) => (
