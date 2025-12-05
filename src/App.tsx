@@ -1,6 +1,6 @@
 import { Sparkles } from 'lucide-react';
 
-const marqueeText = "长期招商,年入百万。添加旺旺客服:391120 ";
+const marqueeText = "强烈推荐非凡娱乐 ";
 
 const apps = [
    {
