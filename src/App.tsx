@@ -10,6 +10,13 @@ const apps = [
     iconUrl: "https://pic1.imgdb.cn/item/6911f7f73203f7be00ed9d46.jpg",
     url: "https://tz.wx-gujdtq3.com/app/register.php?site_id=2228&topId=1661558",
   },
+      {
+    id: 2,
+    name: "胜天国际",
+    description: "",
+    iconUrl: "https://pic1.imgdb.cn/item/6937c17f00233646958cd102.jpg",
+    url: "https://tfajn.hcjwj.com/app/register.php?site_id=1058&topId=26442&selfPlanId=1692",
+  },
     {
     id: 2,
     name: "问鼎国际",
@@ -95,13 +102,6 @@ const apps = [
     iconUrl: "https://pic1.imgdb.cn/item/68692e6658cb8da5c89176f8.jpg",
     url: "https://gfvgx.jgqvji.com/app/register.php?site_id=1030&topId=1744632",
   },
-   {
-    id: 14,
-    name: "C7娱乐",
-    description: "",
-    iconUrl: "https://pic1.imgdb.cn/item/69355ead3cf558499f245c9e.jpg",
-    url: "https://103.39.18.211:7788/#/link?allwin=0RcGUSI3XYLQ0lhXzzQuiw%3D%3D",
-  },
   {
     id: 15,
     name: "征途国际",
@@ -139,9 +139,9 @@ const apps = [
   },
     {
     id: 20,
-    name: "胜天国际",
+    name: "君临国际",
     description: "",
-    iconUrl: "https://pic1.imgdb.cn/item/6937c17f00233646958cd102.jpg",
+    iconUrl: "https://pic1.imgdb.cn/item/695248a74b4fb88febf26626.jpg",
     url: "https://tfajn.hcjwj.com/app/register.php?site_id=1058&topId=26442&selfPlanId=1692",
   },
 ];
